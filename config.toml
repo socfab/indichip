@@ -1,0 +1,4 @@
+baseURL = 'https://indichip.org.in/'
+languageCode = 'en-us'
+title = 'RISC-V Mobile Chip Design'
+theme = "ananke"
