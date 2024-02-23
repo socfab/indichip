@@ -1,0 +1,8 @@
+---
+title: Android on RISC-V 
+date: 2024-02-22T18:30:00.000Z
+---
+
+== Android on RISC-V 
+
+https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html?m=1[Android and RISC-V: "What you need to know to be ready" Google Blog]
